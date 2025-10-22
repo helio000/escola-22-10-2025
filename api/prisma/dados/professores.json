@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Thiago Muniz",
+        "email": "thiago@gmail.com",
+        "senha": "12345"
+    },
+    {
+        "nome": "Justo Will",
+        "email": "will@gmail.com",
+        "senha": "12345"
+    },
+    {
+        "nome": "Erick Pinto",
+        "email": "erick@gmail.com",
+        "senha": "12345"
+    }
+]
